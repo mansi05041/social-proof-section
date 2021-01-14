@@ -64,6 +64,7 @@ body{
 }
 .image{
   border-radius: 100%;
+  width:50px;
 }
 .name{
   color:white;
